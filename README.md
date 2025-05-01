@@ -17,6 +17,8 @@ Além disso, para executar os programas que utilizam a entrada do usuário, voc�
 ```bash
 npm install prompt-async
 
+````
+
 ## Observações
 Estes exercícios demonstram conceitos básicos de programação em JavaScript, incluindo estruturas de controle de fluxo (if/else, switch-case) e loops (for, while), além da interação com o usuário através do console.
 
