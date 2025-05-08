@@ -15,7 +15,7 @@ Para executar estes exercícios, você precisará ter o Node.js instalado em sua
 Além disso, para executar os programas que utilizam a entrada do usuário, você precisará instalar a biblioteca `prompt-async`. Certifique-se de estar no diretório do seu projeto e execute o seguinte comando no seu terminal:
 
 ```bash
-npm install prompt-async
+npm install prompt-sync
 
 ````
 
