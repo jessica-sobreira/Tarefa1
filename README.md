@@ -6,7 +6,7 @@ Este repositório contém uma série de exercícios de JavaScript que interagem 
 
 * **JavaScript:** Linguagem de programação principal.
 * **Node.js:** Ambiente de execução para JavaScript no servidor.
-* **`prompt-async`:** Biblioteca Node.js para solicitar entrada de dados do usuário de forma assíncrona no terminal.
+* **`prompt-sync`:** Biblioteca Node.js para solicitar entrada de dados do usuário de forma assíncrona no terminal.
 
 ## Pré-requisitos
 
